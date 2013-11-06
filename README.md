@@ -5,7 +5,7 @@ Python program utilizing the pytube library, for the downloading and optional mp
 
 Requires:
 
-https://github.com/Nficano/pytube.git
+https://github.com/NFicano/pytube.git
 
 ffmpeg
 
